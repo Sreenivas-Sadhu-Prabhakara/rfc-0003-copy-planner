@@ -1,0 +1,13 @@
+{
+  "name": "rfc-0003-copy-planner",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Plan how many master copies to send and how many copies each group needs to print locally.",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
